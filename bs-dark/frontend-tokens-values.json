@@ -1,0 +1,210 @@
+{
+    "bsBodyColor": {
+        "cssVariableMapping": "bs-body-color",
+        "value": "#dee2e6"
+    },
+    "bsBodyColorRgb": {
+        "cssVariableMapping": "bs-body-color-rgb",
+        "value": "222, 226, 230"
+    },
+    "bsBodyBg": {
+        "cssVariableMapping": "bs-body-bg",
+        "value": "#212529"
+    },
+    "bsBodyBgRgb": {
+        "cssVariableMapping": "bs-body-bg-rgb",
+        "value": "33, 37, 41"
+    },
+    "bsEmphasisColor": {
+        "cssVariableMapping": "bs-emphasis-color",
+        "value": "#fff"
+    },
+    "bsEmphasisColorRgb": {
+        "cssVariableMapping": "bs-emphasis-color-rgb",
+        "value": "255, 255, 255"
+    },
+    "bsSecondaryColor": {
+        "cssVariableMapping": "bs-secondary-color",
+        "value": "rgba(222, 226, 230, 0.75)"
+    },
+    "bsSecondaryColorRgb": {
+        "cssVariableMapping": "bs-secondary-color-rgb",
+        "value": "222, 226, 230"
+    },
+    "bsSecondaryBg": {
+        "cssVariableMapping": "bs-secondary-bg",
+        "value": "#343a40"
+    },
+    "bsSecondaryBgRgb": {
+        "cssVariableMapping": "bs-secondary-bg-rgb",
+        "value": "52, 58, 64"
+    },
+    "bsTertiaryColor": {
+        "cssVariableMapping": "bs-tertiary-color",
+        "value": "rgba(222, 226, 230, 0.5)"
+    },
+    "bsTertiaryColorRgb": {
+        "cssVariableMapping": "bs-tertiary-color-rgb",
+        "value": "222, 226, 230"
+    },
+    "bsTertiaryBg": {
+        "cssVariableMapping": "bs-tertiary-bg",
+        "value": "#2b3035"
+    },
+    "bsTertiaryBgRgb": {
+        "cssVariableMapping": "bs-tertiary-bg-rgb",
+        "value": "43, 48, 53"
+    },
+    "bsPrimaryTextEmphasis": {
+        "cssVariableMapping": "bs-primary-text-emphasis",
+        "value": "#6ea8fe"
+    },
+    "bsSecondaryTextEmphasis": {
+        "cssVariableMapping": "bs-secondary-text-emphasis",
+        "value": "#a7acb1"
+    },
+    "bsSuccessTextEmphasis": {
+        "cssVariableMapping": "bs-success-text-emphasis",
+        "value": "#75b798"
+    },
+    "bsInfoTextEmphasis": {
+        "cssVariableMapping": "bs-info-text-emphasis",
+        "value": "#6edff6"
+    },
+    "bsWarningTextEmphasis": {
+        "cssVariableMapping": "bs-warning-text-emphasis",
+        "value": "#ffda6a"
+    },
+    "bsDangerTextEmphasis": {
+        "cssVariableMapping": "bs-danger-text-emphasis",
+        "value": "#ea868f"
+    },
+    "bsLightTextEmphasis": {
+        "cssVariableMapping": "bs-light-text-emphasis",
+        "value": "#f8f9fa"
+    },
+    "bsDarkTextEmphasis": {
+        "cssVariableMapping": "bs-dark-text-emphasis",
+        "value": "#dee2e6"
+    },
+    "bsPrimaryBgSubtle": {
+        "cssVariableMapping": "bs-primary-bg-subtle",
+        "value": "#031633"
+    },
+    "bsSecondaryBgSubtle": {
+        "cssVariableMapping": "bs-secondary-bg-subtle",
+        "value": "#161719"
+    },
+    "bsSuccessBgSubtle": {
+        "cssVariableMapping": "bs-success-bg-subtle",
+        "value": "#051b11"
+    },
+    "bsInfoBgSubtle": {
+        "cssVariableMapping": "bs-info-bg-subtle",
+        "value": "#032830"
+    },
+    "bsWarningBgSubtle": {
+        "cssVariableMapping": "bs-warning-bg-subtle",
+        "value": "#332701"
+    },
+    "bsDangerBgSubtle": {
+        "cssVariableMapping": "bs-danger-bg-subtle",
+        "value": "#2c0b0e"
+    },
+    "bsLightBgSubtle": {
+        "cssVariableMapping": "bs-light-bg-subtle",
+        "value": "#343a40"
+    },
+    "bsDarkBgSubtle": {
+        "cssVariableMapping": "bs-dark-bg-subtle",
+        "value": "#1a1d20"
+    },
+    "bsPrimaryBorderSubtle": {
+        "cssVariableMapping": "bs-primary-border-subtle",
+        "value": "#084298"
+    },
+    "bsSecondaryBorderSubtle": {
+        "cssVariableMapping": "bs-secondary-border-subtle",
+        "value": "#41464b"
+    },
+    "bsSuccessBorderSubtle": {
+        "cssVariableMapping": "bs-success-border-subtle",
+        "value": "#0f5132"
+    },
+    "bsInfoBorderSubtle": {
+        "cssVariableMapping": "bs-info-border-subtle",
+        "value": "#087990"
+    },
+    "bsWarningBorderSubtle": {
+        "cssVariableMapping": "bs-warning-border-subtle",
+        "value": "#997404"
+    },
+    "bsDangerBorderSubtle": {
+        "cssVariableMapping": "bs-danger-border-subtle",
+        "value": "#842029"
+    },
+    "bsLightBorderSubtle": {
+        "cssVariableMapping": "bs-light-border-subtle",
+        "value": "#495057"
+    },
+    "bsDarkBorderSubtle": {
+        "cssVariableMapping": "bs-dark-border-subtle",
+        "value": "#343a40"
+    },
+    "bsHeadingColor": {
+        "cssVariableMapping": "bs-heading-color",
+        "value": "inherit"
+    },
+    "bsLinkColor": {
+        "cssVariableMapping": "bs-link-color",
+        "value": "#6ea8fe"
+    },
+    "bsLinkHoverColor": {
+        "cssVariableMapping": "bs-link-hover-color",
+        "value": "#8bb9fe"
+    },
+    "bsLinkColorRgb": {
+        "cssVariableMapping": "bs-link-color-rgb",
+        "value": "110, 168, 254"
+    },
+    "bsLinkHoverColorRgb": {
+        "cssVariableMapping": "bs-link-hover-color-rgb",
+        "value": "139, 185, 254"
+    },
+    "bsCodeColor": {
+        "cssVariableMapping": "bs-code-color",
+        "value": "#e685b5"
+    },
+    "bsHighlightColor": {
+        "cssVariableMapping": "bs-highlight-color",
+        "value": "#dee2e6"
+    },
+    "bsHighlightBg": {
+        "cssVariableMapping": "bs-highlight-bg",
+        "value": "#664d03"
+    },
+    "bsBorderColor": {
+        "cssVariableMapping": "bs-border-color",
+        "value": "#495057"
+    },
+    "bsBorderColorTranslucent": {
+        "cssVariableMapping": "bs-border-color-translucent",
+        "value": "rgba(255, 255, 255, 0.15)"
+    },
+    "bsFormValidColor": {
+        "cssVariableMapping": "bs-form-valid-color",
+        "value": "#75b798"
+    },
+    "bsFormValidBorderColor": {
+        "cssVariableMapping": "bs-form-valid-border-color",
+        "value": "#75b798"
+    },
+    "bsFormInvalidColor": {
+        "cssVariableMapping": "bs-form-invalid-color",
+        "value": "#ea868f"
+    },
+    "bsFormInvalidBorderColor": {
+        "cssVariableMapping": "bs-form-invalid-border-color",
+        "value": "#ea868f"
+    }
+}
